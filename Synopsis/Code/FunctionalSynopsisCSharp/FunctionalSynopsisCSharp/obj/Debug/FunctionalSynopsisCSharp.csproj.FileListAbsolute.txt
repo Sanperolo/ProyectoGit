@@ -1,0 +1,7 @@
+C:\Users\Mi PC\workspaceFP\FunctionalSynopsisCSharp\FunctionalSynopsisCSharp\bin\Debug\FunctionalSynopsisCSharp.exe.config
+C:\Users\Mi PC\workspaceFP\FunctionalSynopsisCSharp\FunctionalSynopsisCSharp\bin\Debug\FunctionalSynopsisCSharp.exe
+C:\Users\Mi PC\workspaceFP\FunctionalSynopsisCSharp\FunctionalSynopsisCSharp\bin\Debug\FunctionalSynopsisCSharp.pdb
+C:\Users\Mi PC\workspaceFP\FunctionalSynopsisCSharp\FunctionalSynopsisCSharp\obj\Debug\FunctionalSynopsisCSharp.csprojAssemblyReference.cache
+C:\Users\Mi PC\workspaceFP\FunctionalSynopsisCSharp\FunctionalSynopsisCSharp\obj\Debug\FunctionalSynopsisCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mi PC\workspaceFP\FunctionalSynopsisCSharp\FunctionalSynopsisCSharp\obj\Debug\FunctionalSynopsisCSharp.exe
+C:\Users\Mi PC\workspaceFP\FunctionalSynopsisCSharp\FunctionalSynopsisCSharp\obj\Debug\FunctionalSynopsisCSharp.pdb
